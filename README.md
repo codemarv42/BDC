@@ -37,6 +37,10 @@ Our mobile app allows users to:
 - Access historical data and trends for discharged batteries.
 - Receive notifications and alerts when the discharging process is complete.
 
+## Availability
+
+Please note that this project is still in its early stages of development. We are actively working on bringing it to market, and it will be available for purchase soon. Stay tuned for updates on availability and ordering information.
+
 ## Contributions
 
 We welcome contributions from the open-source community to enhance and expand the capabilities of the Battery Discharge Controller. Please feel free to submit issues, feature requests, or pull requests to help improve this project.
